@@ -54,7 +54,36 @@ Ver contenido
 ![imagen](https://user-images.githubusercontent.com/53051637/170852919-50e9c903-94b5-40fe-922f-fc5d4a3d723c.png)
 
 
+## Upload to S3
 
+### Via SSH
+
+Use this command to upload from EMR to S3
+
+![imagen](https://user-images.githubusercontent.com/53051637/170853335-471d4a37-41e7-4c49-9e7d-bb1477d33bcc.png)
+
+And in S3
+
+![imagen](https://user-images.githubusercontent.com/53051637/170853370-0687c6b2-3484-43a8-b7f0-00170c6ae977.png)
+
+
+
+### Via Hue
+
+In section S3 select bucket and create directory tree
+
+![imagen](https://user-images.githubusercontent.com/53051637/170853018-ffa94ff0-79c4-483b-8357-7f1f268fee0b.png)
+
+Upload files
+
+![imagen](https://user-images.githubusercontent.com/53051637/170853050-f64e721a-8121-4e84-b529-11857ae85186.png)
+
+![imagen](https://user-images.githubusercontent.com/53051637/170853060-996a6f2c-9b64-48f4-8345-c46a5cb9f7ae.png)
+
+
+### Make S3 public
+
+![imagen](https://user-images.githubusercontent.com/53051637/170853442-44f27432-0331-49eb-a646-30718de660c2.png)
 
 
 
