@@ -41,7 +41,20 @@ Create directories `dataset_hue` and `onu`
 
 ![imagen](https://user-images.githubusercontent.com/53051637/170851796-b49626fa-146c-422a-8eb0-6412f0b4283d.png)
 
-![imagen](https://user-images.githubusercontent.com/53051637/170852188-abd055ca-9348-40fc-887b-43ed9bbfa09b.png)
+![imagen](https://user-images.githubusercontent.com/53051637/170852866-83563e55-62b5-4232-b7db-e248b2ee3c09.png)
+
+Upload files
+
+![imagen](https://user-images.githubusercontent.com/53051637/170852900-60bcb344-dc67-4a78-bcef-0c66d4e6bf19.png)
+
+![imagen](https://user-images.githubusercontent.com/53051637/170852906-a21b369a-04d3-4fee-a379-946a5b3cf264.png)
+
+Ver contenido
+
+![imagen](https://user-images.githubusercontent.com/53051637/170852919-50e9c903-94b5-40fe-922f-fc5d4a3d723c.png)
+
+
+
 
 
 
